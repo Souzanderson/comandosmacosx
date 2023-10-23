@@ -29,3 +29,10 @@ mv nome_antigo novo_nome
 sudo chown -R ${USER} arquivo_ou_diretorio
 ```
 
+## Mudar arquivo para executável
+
+* Este comando é interessante em casos como quando você possui um batch file e quer fazêlo executável
+
+```bash
+chmod +x nome_do_arquivo
+```
