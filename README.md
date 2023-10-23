@@ -36,3 +36,11 @@ sudo chown -R ${USER} arquivo_ou_diretorio
 ```bash
 chmod +x nome_do_arquivo
 ```
+
+## Exemplo de Arquivo Batch
+
+```batch
+#!/bin/bash
+cd ~/diretorio/diretorio_secundario
+code .
+```
