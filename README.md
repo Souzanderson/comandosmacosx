@@ -31,7 +31,7 @@ sudo chown -R ${USER} arquivo_ou_diretorio
 
 ## Mudar arquivo para executável
 
-* Este comando é interessante em casos como quando você possui um batch file e quer fazêlo executável
+* Este comando é interessante em casos como quando você possui um batch file e quer fazê-lo executável
 
 ```bash
 chmod +x nome_do_arquivo
