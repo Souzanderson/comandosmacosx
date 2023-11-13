@@ -45,10 +45,10 @@ cd ~/diretorio/diretorio_secundario
 code .
 ```
 
-##Simulink para npm instalado pelo nvm
+## Simulink para npm instalado pelo nvm
 
 ```bash
-  sudo rm -f /usr/bin/node
+sudo rm -f /usr/bin/node
 sudo rm -f /usr/bin/npm
 sudo ln -s $(which node) /usr/bin/
 sudo ln -s $(which npm) /usr/bin/
