@@ -58,4 +58,4 @@ sudo ln -s $(which npm) /usr/bin/
 
 ```bash
 sudo nginx -s stop && nginx
-````
+```
