@@ -56,6 +56,8 @@ sudo ln -s $(which npm) /usr/bin/
 
 ## Comando restar nginx
 
+- Os arquivos de configuração do Nginx no MacOsX ficam no diretório: /usr/local/etc/nginx
+
 ```bash
 sudo nginx -s stop && nginx
 ```
